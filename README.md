@@ -5,5 +5,5 @@
 Para rodar esse projeto digite:
 
 ```
-suck.me 
+node app.py
 ```
