@@ -4,6 +4,6 @@
 
 Para rodar esse projeto digite:
 
-'''
+```
 suck.me 
-'''
+```
